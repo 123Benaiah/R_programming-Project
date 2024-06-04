@@ -9,6 +9,5 @@ Key Features:
 
 - Predict Future Occurrences: Forecast future events based on historical data using advanced time series forecasting methods.
 
-To get started, navigate to the Upload Data tab to upload your data, or select Visualize and Analyze Data to explore existing datasets. You can also use the Predict Future Occurrences tab to make forecasts based on your data.
-
-For assistance or inquiries, please refer to the About tab.
+use the finalProject.R file to access the project.
+note: the excel file is just a sample made, its note actual data 
